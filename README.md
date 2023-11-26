@@ -22,7 +22,7 @@ Banco de dados: Postgres com Prisma funcionando com Docker.
 
 ## Clone o projeto
 ```bash
-git clone https://...
+git clone https://github.com/alanmarinho/crud.git
 ```
 
 ### Configuração do banco de dados
